@@ -1,2 +1,3 @@
-# java-template
-Template for Java/Maven library with CI/CD
+# Java template
+
+Template for Java/Maven library with CI & Dependabot updates.
