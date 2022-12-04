@@ -1,4 +1,4 @@
-package com.github.stscoundrel.javatemplate;
+package io.github.stscoundrel.javatemplate;
 
 public class App 
 {

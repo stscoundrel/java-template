@@ -1,4 +1,4 @@
-package com.github.stscoundrel.javatemplate;
+package io.github.stscoundrel.javatemplate;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
